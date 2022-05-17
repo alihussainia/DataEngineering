@@ -1,5 +1,5 @@
 # Use Python 3.9 version base image
-FROM Python:3.9
+FROM python:3.9
 
 # install pandas lib
 RUN pip install pandas
